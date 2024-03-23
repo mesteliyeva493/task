@@ -1,0 +1,12 @@
+.home_carouse-indicators button{
+    border-radius: 50% !important;
+    gap: 4px;
+    width: 16px !important;
+    background-color: white !important;
+    height: 16px !important;
+}
+
+.home_carouse-indicators button:hover{
+    background-color: red !important;
+    border: 3px solid white;
+}

@@ -1,0 +1,5 @@
+@import "../abstract/variables";
+@import"../abstract/mixins";
+.btn{
+ @include button($white,$hover-red,$black,$main-font,$hover-color)
+}

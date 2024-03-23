@@ -1,0 +1,13 @@
+{
+    "liveServer.settings.port": 5501,
+    "liveSassCompile.settings.formats": [
+        {
+          // compress the css file
+          "format": "compressed",
+          // add .min.css as the extension
+          "extensionName": ".min.css", 
+          // define the output/save path
+          "savePath": "/scss"
+        }
+      ], 
+}
